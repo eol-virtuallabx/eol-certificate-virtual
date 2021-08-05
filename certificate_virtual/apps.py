@@ -5,7 +5,7 @@ from openedx.core.djangoapps.plugins.constants import PluginSettings, PluginURLs
 
 
 class EolCertificateConfig(AppConfig):
-    name = 'eol_certificate_virtual'
+    name = 'certificate_virtual'
 
     plugin_app = {
         PluginSettings.CONFIG: {
