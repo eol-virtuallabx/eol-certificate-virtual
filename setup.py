@@ -16,7 +16,7 @@ setuptools.setup(
     ],
     entry_points={
         "lms.djangoapp": [
-            "eol-certificate-virtual = certificate-virtual.apps:EolCertificateConfig",
+            "eol-certificate-virtual = certificate_virtual.apps:EolCertificateConfig",
         ]
     },
 )
