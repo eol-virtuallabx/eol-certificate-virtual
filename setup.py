@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="eol-certificate-virtual",
+    name="eol_certificate_virtual",
     version="0.0.1",
     author="constanzaaltamirano",
     author_email="constanzaaltamirano@uchile.cl",
